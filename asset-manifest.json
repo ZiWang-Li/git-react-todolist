@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/git-react-todolist/static/css/main.d7449bc3.chunk.css",
+    "main.js": "/git-react-todolist/static/js/main.c2049f30.chunk.js",
+    "main.js.map": "/git-react-todolist/static/js/main.c2049f30.chunk.js.map",
+    "runtime-main.js": "/git-react-todolist/static/js/runtime-main.0be3943c.js",
+    "runtime-main.js.map": "/git-react-todolist/static/js/runtime-main.0be3943c.js.map",
+    "static/js/2.45307c2e.chunk.js": "/git-react-todolist/static/js/2.45307c2e.chunk.js",
+    "static/js/2.45307c2e.chunk.js.map": "/git-react-todolist/static/js/2.45307c2e.chunk.js.map",
+    "index.html": "/git-react-todolist/index.html",
+    "static/css/main.d7449bc3.chunk.css.map": "/git-react-todolist/static/css/main.d7449bc3.chunk.css.map",
+    "static/js/2.45307c2e.chunk.js.LICENSE.txt": "/git-react-todolist/static/js/2.45307c2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0be3943c.js",
+    "static/js/2.45307c2e.chunk.js",
+    "static/css/main.d7449bc3.chunk.css",
+    "static/js/main.c2049f30.chunk.js"
+  ]
+}
